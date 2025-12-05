@@ -1,0 +1,65 @@
+/* .button-block {
+    display: flex;
+        flex-direction: column;
+    
+}
+
+.button-item {
+        margin: 30px;
+        width: 80px;
+        height: 80px;
+    } */
+
+/* .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 32px;
+    width: 250px;
+}
+
+.input {
+    margin: 10px;
+} */
+
+
+/* .parent,
+.child,
+.item {
+    margin: 30px;
+    padding: 10px;
+    outline: 1px solid red;
+} */
+
+/* .nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.li-item {
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid red;
+}
+
+.li-item.active {
+    background-color: yellow;
+} */
+
+
+/* .ball {
+    width: 50px;
+    height: 50px;
+    background-color: rebeccapurple;
+    z-index: 20;
+    position: absolute;
+    border-radius: 50%;
+} */
+
+.hidden {
+    display: none;
+}
